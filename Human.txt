@@ -1,0 +1,35 @@
+BOT : My Name is BOT, Let's Have Conversation! If you want to exit any time, just type Bye! 
+Human : hi
+BOT : Hi, Human
+
+Human : what is machine learning?
+BOT : [13][14] a representative book of the machine learning research during the 1960s was the nilsson's book on learning machines, dealing mostly with machine learning for pattern classification.
+
+Human : types of machine learning?
+BOT : [18]
+
+types of supervised learning algorithms include active learning, classification and regression.
+
+Human : what is classification?
+BOT : [18]
+
+types of supervised learning algorithms include active learning, classification and regression.
+
+Human : classification?
+BOT : [18]
+
+types of supervised learning algorithms include active learning, classification and regression.
+
+Human : regression
+BOT : [18]
+
+types of supervised learning algorithms include active learning, classification and regression.
+
+Human : machine learning impact
+BOT : [13][14] a representative book of the machine learning research during the 1960s was the nilsson's book on learning machines, dealing mostly with machine learning for pattern classification.
+
+Human : thanks
+BOT : You are welcome..
+
+
+
